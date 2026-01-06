@@ -1,0 +1,1 @@
+Once upon a time, I wanted a simple Application that could play MIDI with a Piano-like sound to it. This is what came out of it. This project "should just work" with to plans to it being updated or maintained 
